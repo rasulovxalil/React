@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "id":"1",
+            "name": "Xalil Rasulov",
+            "department": "Bilisim",
+            "salary": "5000"
+          },
+          {
+            "id":"2",
+            "name": "Pasa Shabanov",
+            "department": "Duzagram",
+            "salary": "6000"
+          },
+          {
+            "id":"3",
+            "name": "Penah Aliyev",
+            "department": "Qaracop",
+            "salary": "8000"
+          }
+    ]
+}
